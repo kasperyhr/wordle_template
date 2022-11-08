@@ -1,0 +1,16 @@
+service:
+  progressBar:
+    size: 20
+  dictionary:
+    resourceText: src/main/resources/words_alpha.txt
+
+driver:
+  dictionary.max.size: 100
+  default.word.length: 6
+
+dictionary:
+  seeds:
+    6#376,541,46,2807,1046;7#59,641,389,5234,6712
+
+report:
+  path: src/main/resources/report.xlsx

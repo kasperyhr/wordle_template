@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+wordle.iml
+target
+
+src/main/resources/report.xlsx
